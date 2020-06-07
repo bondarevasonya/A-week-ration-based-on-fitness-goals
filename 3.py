@@ -167,7 +167,7 @@ def fill_in_the_form():
     physical_activity_local = int(input())
     print("Then indicate your allergies or foods you do not eat")
     not_food_local = input()
-    print('Now you need to chose your goal!')
+    print('Now you need to choose your goal!')
     print("Print 1 if you want to lose weight")
     print("Print 2 if you want to maintain your body weight")
     print("Print 3 if you want to gain weight")
